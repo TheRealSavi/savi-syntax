@@ -1,0 +1,22 @@
+{
+  "name": "savi-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Colorful and fun but also dark and clean",
+  "keywords": [
+    "syntax",
+    "theme",
+    "bright",
+    "dark",
+    "clean",
+    "savi",
+    "saturated",
+    "colorful"
+
+  ],
+  "repository": "https://github.com/TheRealSavi/savi-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
