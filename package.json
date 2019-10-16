@@ -7,11 +7,14 @@
     "syntax",
     "theme",
     "bright",
+    "colorful",
     "dark",
     "clean",
     "savi",
     "saturated",
-    "colorful"
+    "fun",
+    "simple",
+    "neon"
   ],
   "repository": "https://github.com/TheRealSavi/savi-syntax",
   "license": "MIT",
