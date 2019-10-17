@@ -13,4 +13,4 @@ Have a good time :)
 ![Screenshot2](https://raw.githubusercontent.com/TheRealSavi/savi-syntax/master/screenshots/ruby2.png)
 
 # A JavaScript example
-![Screenshot3](https://raw.githubusercontent.com/TheRealSavi/savi-syntax/master/screenshots/js2.png)
+![Screenshot3](https://raw.githubusercontent.com/TheRealSavi/savi-syntax/master/screenshots/js1.png)
