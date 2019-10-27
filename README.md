@@ -1,12 +1,13 @@
 # savi-syntax theme
 
-My version of the tinacious-design-syntax. Dark and colorful. :)
+A dark and colorful syntax theme that helps guide your eyes to what is important.  
+Easy to read and focus, with fun and enjoyable colors, that make sense and improve readability.   
+Pairs perfectly with any dark ui theme of your choosing.  
 
-Easy on the eyes and lets you focus on what is most important in your code
-Allows you to easily discern the different elements of your code while remaining stunning and beautiful
+Stunning, beautiful, vibrant, classy, and soothing. Bright and at the same time soft.  
 
-Definitely not boring and definitely fun.
-Have a good time :)
+Definitely not your average boring theme, and definitely a lot of fun to use.  
+Have a good time :)   
 
 # Some ruby examples
 ![Screenshot](https://raw.githubusercontent.com/TheRealSavi/savi-syntax/master/screenshots/ruby1.png)
