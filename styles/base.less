@@ -110,8 +110,22 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
   }
 }
 
+
+
 .syntax--variable {
-  color: @red;
+  color: @syntax-text-color;
+
+  &.syntax--other.syntax--object.syntax--property {
+    color: @red;
+  }
+
+  &.syntax--constant {
+    color: lighten(@purple, 15%);
+  }
+
+  &.syntax--language {
+    color: @orange;
+  }
 
   &.syntax--interpolation {
     color: darken(@red, 10%);
