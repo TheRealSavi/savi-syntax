@@ -9,9 +9,5 @@ Stunning, beautiful, vibrant, classy, and soothing. Bright and at the same time 
 Definitely not your average boring theme, and definitely a lot of fun to use.  
 Have a good time :)   
 
-# Some ruby examples
-![Screenshot](https://raw.githubusercontent.com/TheRealSavi/savi-syntax/master/screenshots/ruby1.png)
-![Screenshot2](https://raw.githubusercontent.com/TheRealSavi/savi-syntax/master/screenshots/ruby2.png)
-
-# A JavaScript example
-![Screenshot3](https://raw.githubusercontent.com/TheRealSavi/savi-syntax/master/screenshots/js1.png)
+# Example in Ruby
+![Screenshot](https://raw.githubusercontent.com/TheRealSavi/savi-syntax/master/screenshots/ruby.png)
